@@ -42,3 +42,4 @@ view/
 bundle/*
 plugged/*
 session/*
+window-geometry.conf
