@@ -43,3 +43,5 @@ bundle/*
 plugged/*
 session/*
 window-geometry.conf
+init.vim
+ginit.vim

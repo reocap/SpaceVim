@@ -1,1 +1,0 @@
-/home/hyowon.kim/mytool/hyowon.init.vim
